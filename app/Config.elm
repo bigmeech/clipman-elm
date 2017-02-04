@@ -1,0 +1,1 @@
+module Clipman.Config exposing (..)

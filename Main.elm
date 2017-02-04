@@ -1,7 +1,7 @@
-module Hello exposing (..)
+module Clipman exposing (..)
 
 import Html exposing (text)
-import Chrome.Ext exposing (..)
+import Clipman.app.view exposing (..)
 
 main =
     text Chrome.Ext.background

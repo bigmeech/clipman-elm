@@ -1,0 +1,2 @@
+module Clipman.Content exposing (..)
+
